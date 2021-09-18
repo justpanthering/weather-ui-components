@@ -2,6 +2,7 @@ import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import "./stories/assets/weatherIcons/css/weather-icons.min.css";
+import "./stories/assets/weatherIcons/css/weather-icons-wind.min.css";
 
 function App() {
   return (
